@@ -15,7 +15,7 @@ Built in 24 hours in a hackathon. Interact with your documents in a conversation
 #### [IRAS - Institutional Room Reservation App](https://github.com/AkshajP/iras)
 An efficient room reservation system designed for institutions. Simplify the booking process, manage room schedules, and enhance productivity.
 
-#### [Music Genre Classification using GTZAN* dataset] (https://github.com/AkshajP/music-genre-classification)
+#### [Music Genre Classification using GTZAN* dataset](https://github.com/AkshajP/music-genre-classification)
 A project on improving results for genre classification of music. Produced comparisons across different genres, features extracted, test/train sized and epochs for training. Used and modified the GTZAN dataset. 
 
 #### [Python Chat - Broadcast Chatroom](https://github.com/AkshajP/PythonChat)
@@ -38,7 +38,11 @@ A command line tool to download YouTube videos. Supports various formats and res
 
 Currently diving deeper into NextJS, machine learning and AI.
 
+---
+
 Feel free to explore my repositories, fork projects, and contribute. Let's build something amazing together!
+
+
 PS: Some projects might not work because of expired API keys and broken external dependencies.
 
 ---
