@@ -18,6 +18,9 @@ An efficient room reservation system designed for institutions. Simplify the boo
 #### [Music Genre Classification using GTZAN* dataset](https://github.com/AkshajP/music-genre-classification)
 A project on improving results for genre classification of music. Produced comparisons across different genres, features extracted, test/train sized and epochs for training. Used and modified the GTZAN dataset. 
 
+#### [Online Auction System*](https://www.github.com/AkshajP/abb-project)
+Work-in-progress auction system using ShadCN UI for an online auction place. *not fully functional
+
 #### [Python Chat - Broadcast Chatroom](https://github.com/AkshajP/PythonChat)
 A simple and effective broadcast chatroom built with Python. Facilitates group communication in real-time.
 
